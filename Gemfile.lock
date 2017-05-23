@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    type_mapper (0.1.0)
+    type_mapper (1.0.0)
 
 GEM
   remote: https://rubygems.org/
